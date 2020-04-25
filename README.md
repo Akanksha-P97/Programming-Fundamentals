@@ -1,4 +1,4 @@
-# Pursuit-of-Programming
+# Pursuit of Programming
 
 *Learning is an ongoing process*
 
